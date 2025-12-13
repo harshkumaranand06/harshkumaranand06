@@ -1,18 +1,18 @@
-<h1 align="center">
-  Hi 👋, I'm Harsh Kumar Anand
-</h1>
+<h1 align="center">Hi 👋, I'm Harsh Kumar Anand</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;MERN+Stack+%7C+PWA+Specialist;Building+Scalable+Real-World+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;MERN+Stack+%7C+PWA+Specialist;Building+Scalable+Real-World+Products" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-anand">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:harshbabu06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/harshkumaranand06">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
@@ -28,14 +28,15 @@
 🏫 JSS Academy of Technical Education, Bangalore (2023 – 2027)  
 📍 Bengaluru, Karnataka  
 
-I’m a **results-oriented Full-Stack Developer** who loves building **AI-powered, offline-first, and scalable web applications**.
+I’m a **results-driven Full-Stack Developer** passionate about building  
+**AI-powered, offline-first, scalable web applications** used by real users.
 
-✨ I specialize in:
-- Turning **real-world problems** into production-ready apps  
-- Building **high-performance PWAs** for low-connectivity environments  
-- Writing **clean, testable, and scalable code**  
+✨ What I focus on:
+- Solving **real-world problems** with production-ready solutions  
+- Building **PWAs for low-network environments**  
+- Writing **clean, scalable & testable code**  
 
-⚡ *I believe great software should be fast, accessible, and impactful.*
+⚡ *Code that performs. UI that feels alive.*
 
 ---
 
@@ -43,64 +44,69 @@ I’m a **results-oriented Full-Stack Developer** who loves building **AI-powere
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="42"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="42"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="42"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="42"/>
-  <img src="https://skillicons.dev/icons?i=python" height="42"/>
-  <img src="https://skillicons.dev/icons?i=html" height="42"/>
-  <img src="https://skillicons.dev/icons?i=css" height="42"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
 
 ---
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="42"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="42"/>
-  <img src="https://skillicons.dev/icons?i=framer" height="42"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=framer" height="45"/>
 </p>
 
 ---
 
-### 🛠 Backend
+### 🛠 Backend & Auth
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
-  <img src="https://skillicons.dev/icons?i=express" height="42"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=clerk" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Auth-JWT%20%7C%20OTP-111?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🗄 Databases
+### 🗄 Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IndexedDB-Offline%20Cache-111?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔧 Tools & Platforms
+### ☁️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="42"/>
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="42"/>
-  <img src="https://skillicons.dev/icons?i=cloudinary" height="42"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudinary" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=leaflet" height="45"/>
 </p>
 
 ---
 
 ### 📚 Core Concepts
 <p>
-  <img src="https://img.shields.io/badge/Data%20Structures-111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-111?style=for-the-badge&logo=leetcode&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/OOP-111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-111?style=for-the-badge&logo=opencv"/>
-  <img src="https://img.shields.io/badge/PWA-111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Offline--First-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-90%25-0f172a?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Algorithms-85%25-0f172a?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/OOP-90%25-0f172a?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Computer%20Vision-80%25-0f172a?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/PWA-95%25-0f172a?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Service%20Workers-90%25-0f172a?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Offline--First-95%25-0f172a?style=for-the-badge"/>
 </p>
 
 ---
@@ -108,11 +114,11 @@ I’m a **results-oriented Full-Stack Developer** who loves building **AI-powere
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkumaranand06&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkumaranand06&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumaranand06&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumaranand06&theme=tokyonight"/>
 </p>
 
 ---
@@ -125,4 +131,4 @@ I’m a **results-oriented Full-Stack Developer** who loves building **AI-powere
 
 ---
 
-<h3 align="center">✨ Open to Internships • Hackathons • Collaborations ✨</h3>
+<h3 align="center">✨ Open to Internships • Hackathons • Collaboration ✨</h3>
