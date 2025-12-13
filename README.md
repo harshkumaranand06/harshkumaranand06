@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar Anand</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;MERN+Stack+%7C+PWA+Specialist;Building+Scalable+Real-World+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=7DD3FC&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;MERN+Stack+%7C+PWA+Specialist;Building+Scalable+Real-World+Products" />
 </p>
 
 <p align="center">
@@ -22,91 +22,98 @@
 
 ## 🚀 About Me
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212897783-23fdb0c4-4b36-4c69-8e44-7d5a9a2c3d5b.gif" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212897783-23fdb0c4-4b36-4c69-8e44-7d5a9a2c3d5b.gif" />
 
 🎓 **B.E. Information Technology**  
-🏫 JSS Academy of Technical Education, Bangalore (2023 – 2027)  
+🏫 JSS Academy of Technical Education, Bangalore  
 📍 Bengaluru, Karnataka  
 
-I’m a **results-driven Full-Stack Developer** passionate about building  
+I’m a **results-driven Full-Stack Developer** focused on building  
 **AI-powered, offline-first, scalable web applications** used by real users.
 
-✨ What I focus on:
-- Solving **real-world problems** with production-ready solutions  
-- Building **PWAs for low-network environments**  
-- Writing **clean, scalable & testable code**  
+✨ What I love building:
+- ⚡ Fast, accessible PWAs  
+- 🧠 AI & Computer Vision systems  
+- 🔐 Secure authentication flows  
+- 📦 Production-ready MERN stacks  
 
-⚡ *Code that performs. UI that feels alive.*
+> *Clean architecture. Smooth UI. Real-world impact.*
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Technical Skills (Glassmorphism)
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="46"/> <br><br>
+  <img src="https://skillicons.dev/icons?i=html" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="46"/>
 </p>
-
----
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vite" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=framer" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=framer" height="46"/>
 </p>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛠 Backend & Auth
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=clerk" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Auth-JWT%20%7C%20OTP-111?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=clerk" height="46"/> <br><br>
+  <img src="https://img.shields.io/badge/Auth-JWT%20%7C%20OTP-0f172a?style=for-the-badge"/>
 </p>
-
----
 
 ### 🗄 Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IndexedDB-Offline%20Cache-111?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="46"/> <br><br>
+  <img src="https://img.shields.io/badge/IndexedDB-Offline%20Cache-0f172a?style=for-the-badge"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### ☁️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudinary" height="45"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=leaflet" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudinary" height="46"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=leaflet" height="46"/>
 </p>
 
 ---
 
 ### 📚 Core Concepts
 <p>
-  <img src="https://img.shields.io/badge/Data%20Structures-90%25-0f172a?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/Algorithms-85%25-0f172a?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/OOP-90%25-0f172a?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/Computer%20Vision-80%25-0f172a?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/PWA-95%25-0f172a?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/Service%20Workers-90%25-0f172a?style=for-the-badge"/> &nbsp;
-  <img src="https://img.shields.io/badge/Offline--First-95%25-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-90%25-020617?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Algorithms-85%25-020617?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/OOP-90%25-020617?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Computer%20Vision-80%25-020617?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/PWA-95%25-020617?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Service%20Workers-90%25-020617?style=for-the-badge"/> &nbsp;
+  <img src="https://img.shields.io/badge/Offline--First-95%25-020617?style=for-the-badge"/>
 </p>
 
 ---
