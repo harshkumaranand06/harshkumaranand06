@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar Anand</h1>
-<h3 align="center">Full-Stack Developer | AI & PWA Engineer | MERN Stack</h3>
+<h1 align="center">
+  Hi 👋, I'm Harsh Kumar Anand
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harsh-kumar-anand" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;MERN+Stack+%7C+PWA+Specialist;Building+Scalable+Real-World+Products" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-kumar-anand">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:harshbabu06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/harshkumaranand06">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -17,86 +22,86 @@
 
 ## 🚀 About Me
 
-🎓 **B.E. Information Technology**  
-📍 Bengaluru, Karnataka  
-🏫 JSS Academy of Technical Education, Bangalore (2023 – 2027)
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212897783-23fdb0c4-4b36-4c69-8e44-7d5a9a2c3d5b.gif" />
 
-I am a **results-driven full-stack developer** specializing in **AI-powered applications**, **Progressive Web Apps**, and **scalable MERN architectures**. I enjoy solving real-world problems using clean code, modern UI, and performance-optimized systems.
+🎓 **B.E. Information Technology**  
+🏫 JSS Academy of Technical Education, Bangalore (2023 – 2027)  
+📍 Bengaluru, Karnataka  
+
+I’m a **results-oriented Full-Stack Developer** who loves building **AI-powered, offline-first, and scalable web applications**.
+
+✨ I specialize in:
+- Turning **real-world problems** into production-ready apps  
+- Building **high-performance PWAs** for low-connectivity environments  
+- Writing **clean, testable, and scalable code**  
+
+⚡ *I believe great software should be fast, accessible, and impactful.*
 
 ---
 
 ## 🧠 Technical Skills
 
 ### 💻 Programming Languages
-`Java` `JavaScript` `TypeScript` `C++` `Python` `HTML5` `CSS3`
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="42"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="42"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="42"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python" height="42"/>
+  <img src="https://skillicons.dev/icons?i=html" height="42"/>
+  <img src="https://skillicons.dev/icons?i=css" height="42"/>
+</p>
+
+---
 
 ### 🎨 Frontend
-`React 19` `Next.js 14` `Tailwind CSS` `Framer Motion` `Vite`
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="42"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="42"/>
+  <img src="https://skillicons.dev/icons?i=framer" height="42"/>
+</p>
+
+---
 
 ### 🛠 Backend
-`Node.js 20` `Express.js 5` `REST APIs` `Service Workers` `PWA`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
+  <img src="https://skillicons.dev/icons?i=express" height="42"/>
+</p>
+
+---
 
 ### 🗄 Databases
-`MongoDB` `MySQL` `IndexedDB`
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+</p>
+
+---
 
 ### 🔧 Tools & Platforms
-`Git` `GitHub` `VS Code` `Postman` `Vercel`  
-`Cloudinary` `Clerk Auth` `Leaflet`
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="42"/>
+  <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="42"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="42"/>
+  <img src="https://skillicons.dev/icons?i=cloudinary" height="42"/>
+</p>
+
+---
 
 ### 📚 Core Concepts
-`Data Structures & Algorithms`  
-`OOP` `Computer Vision`  
-`Authentication` `Offline-First Architecture`
-
----
-
-## 🧩 Featured Projects
-
-### 🌾 **Krishi – AI Agriculture Platform**
-**Tech:** React, Node.js, Express, MongoDB, Computer Vision, Framer Motion  
-- 🚀 AI crop disease detection with **92% accuracy across 15 diseases**
-- ⏱ Reduced diagnosis time from **24 hours → 3 seconds**
-- 👨‍🌾 Helped **1,200+ farmers save ~30% crop yield**
-- 📱 Offline-first PWA used by **10,000+ users in 50+ villages**
-- 🌐 Multilingual support: English, Hindi, Kannada
-
----
-
-### 🛒 **DukaanXpress – E-Commerce Platform**
-**Tech:** React, Node.js, Express, MongoDB, Clerk, Cloudinary, Leaflet  
-- 🏪 Scaled marketplace to **1,200+ products & 100+ vendors**
-- ⚡ Reduced image load time by **65% using Cloudinary CDN**
-- 🗺 Real-time order tracking with **Leaflet maps**
-- 💰 Processed **₹50,000+ monthly transactions**
-- 📈 Improved checkout success by **35%**
-
----
-
-### 🎵 **Retro Swar – Music Streaming PWA**
-**Tech:** React, Vite, Service Workers, IndexedDB, Clerk  
-- 🎧 100+ Hindi songs with **offline playback**
-- 💾 Reduced bandwidth usage by **80% with smart caching**
-- ⚡ **95% instant playback** using service worker optimization
-- ♿ Accessibility score **96/100** with ARIA labels
-
----
-
-## 🧪 Experience & Achievements
-
-- 🧑‍💻 Built **3 production-grade applications** serving **12,500+ users**
-- 📈 Maintained **99% uptime** across deployed platforms
-- 🧠 Solved **80+ DSA problems** (Java) on LeetCode & HackerRank
-- 🌟 Earned **15+ GitHub stars** across 4 repositories
-- 🚀 Deployed **15+ times on Vercel** with Lighthouse scores **95+**
-
----
-
-## ✍️ Community & Leadership
-
-- 📝 Authored **20+ technical articles** on Medium / Dev.to
-- 🔧 Contributed **30+ merged PRs** to open-source projects
-- 👨‍🏫 Mentored **10+ junior developers**
-- 🎤 Led **2 college workshops**, training **50+ students** in MERN stack
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-111?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/OOP-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-111?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/PWA-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Offline--First-111?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -112,12 +117,12 @@ I am a **results-driven full-stack developer** specializing in **AI-powered appl
 
 ---
 
-## 📌 Currently Exploring
-- Advanced Computer Vision
-- Scalable System Design
-- Web Performance Optimization
-- Open-Source Contributions
+## 🌱 Currently Exploring
+- Advanced Computer Vision  
+- System Design  
+- Performance Optimization  
+- Open Source Contributions  
 
 ---
 
-<h3 align="center">✨ Open to Internships, Hackathons & Collaboration ✨</h3>
+<h3 align="center">✨ Open to Internships • Hackathons • Collaborations ✨</h3>
