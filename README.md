@@ -1,171 +1,238 @@
-<h1 align="center">Harsh Kumar Anand</h1>
+<!-- Header Wave -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harsh%20Kumar%20Anand&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20PWA%20Specialist&descSize=16&descAlignY=60&descColor=a5b4fc&animation=fadeIn"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=900&color=60A5FA&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;AI+%26+Computer+Vision+Developer;MERN+Stack+%7C+PWA+Specialist;Building+Scalable+Production+Systems" />
-</p>
+<!-- Animated Typing -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+AI-Powered+Web+Systems+%F0%9F%A7%A0;RAG+Pipelines+%E2%80%A2+Vector+Search+%E2%80%A2+LLMs;Offline-First+PWAs+for+Real-World+Impact;MERN+%E2%80%A2+FastAPI+%E2%80%A2+Firebase+%E2%80%A2+Supabase" alt="Typing SVG"/>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/harsh-kumar-anand-1b014a26a">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=flat-square&logo=linkedin"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:harshbabu06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/harshkumaranand06">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111?style=flat-square&logo=github"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/harshkumaranand">
-    <img src="https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<br/>
 
----
+<!-- Social Badges -->
+<div align="center">
 
-## Summary
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Kumar%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-anand-1b014a26a)
+[![Gmail](https://img.shields.io/badge/Gmail-harshbabu06-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshbabu06@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-120%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshkumaranand)
+[![GitHub](https://img.shields.io/badge/GitHub-harshkumaranand06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshkumaranand06)
 
-🎓 **B.E. Information Technology** — JSS Academy of Technical Education, Bangalore (2023–2027)
-📍 Bengaluru, India
+</div>
 
-I am a **Full-Stack Engineer** focused on building **scalable, reliable, and user-centric web systems**.
-My work spans **AI-powered platforms**, **offline-first PWAs**, and **production-grade MERN architectures** serving real users.
-
-**Engineering values I follow:**
-- Correctness before cleverness
-- Measurable impact over vanity metrics
-- Simple systems that scale
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> About Me
 
-| Project | Stack | Live | Repo |
-|---|---|---|---|
-| **AI Learning Assistant** — RAG-powered EdTech with flashcards, quizzes & mind maps | Next.js, FastAPI, Supabase pgvector, Groq LLaMA-3, Gemini | [Live](https://ai-learning-assistant-gules.vercel.app/) | [GitHub](https://github.com/harshkumaranand06/AI-Learning-Assistant) |
-| **Krishi** — AI crop disease detection + real-time Farmer-Expert chat | React, FastAPI, TensorFlow/Keras, Firebase Auth & Firestore, PWA | [Live](https://krishi-one.vercel.app/) | [GitHub](https://github.com/harshkumaranand06/Krishi) |
-| **Retro Swar** — Classic Hindi music streaming PWA with offline support | React 19, Vite 7, Clerk Auth, IndexedDB, Service Workers | [Live](https://spotify-one-nu.vercel.app/) | [GitHub](https://github.com/harshkumaranand06/spotify) |
+```typescript
+const harsh = {
+  location:    "Bengaluru, India 🇮🇳",
+  education:   "B.E. Information Technology @ JSSATE (2023–2027)",
+  focus:       ["Full-Stack Engineering", "AI/ML Integration", "Offline-First PWAs"],
+  building:    "Production systems where AI meets real-world problems",
+  philosophy:  "Correctness before cleverness. Impact over vanity metrics.",
+  available:   "Internships · Early-Stage Startups · High-Impact Roles"
+};
+```
 
----
-
-## Core Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="44"/>
-</p>
+<br/>
 
 ---
 
-### Frontend Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vite" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=framer" height="44"/>
-</p>
+<!-- Projects Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+<br/>
+
+<!-- AI Learning Assistant -->
+<div align="center">
+
+### 🧠 AI Learning Assistant — EdTech Platform
+
+<a href="https://ai-learning-assistant-gules.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-4F46E5?style=for-the-badge"/>
+</a>
+<a href="https://github.com/harshkumaranand06/AI-Learning-Assistant">
+  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+> Transforms any PDF or YouTube video into a personalized AI curriculum — flashcards, quizzes, mind maps, and more.
+
+| Feature | Tech | Impact |
+|---|---|---|
+| RAG Pipeline | Supabase pgvector + Gemini text-embedding-004 | Sub-100ms similarity search |
+| Quiz Generation | Groq LLaMA-3 + Map-Reduce | **< 1 second** end-to-end |
+| Adaptive Learning | Per-question failure tracking | Dynamically biases weak areas |
+| Interactive Mind Maps | React Flow + voice STT/TTS | Full AI tutor experience |
+
+**Stack:** `Next.js 14` `FastAPI` `Supabase pgvector` `Groq LLaMA-3` `Gemini Embeddings` `React Flow` `Recharts`
+
+<br/>
+
+<!-- Krishi -->
+<div align="center">
+
+### 🌾 Krishi — AI Agriculture Platform *(Hackathon)*
+
+<a href="https://krishi-one.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-16A34A?style=for-the-badge"/>
+</a>
+<a href="https://github.com/harshkumaranand06/Krishi">
+  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+> Empowers Indian farmers with AI crop disease detection and real-time expert consultations.
+
+| Feature | Tech | Impact |
+|---|---|---|
+| Disease Detection | MobileNetV2 (TensorFlow/Keras) | **92% accuracy**, 15 disease categories |
+| Expert Chat | Firebase Firestore real-time | Instant Farmer ↔ Expert rooms |
+| Offline PWA | Service Workers + cache-first | **98/100** Lighthouse score |
+| Multilingual | i18n — EN / HI / KN | Accessible to rural users |
+
+**Stack:** `React` `FastAPI` `TensorFlow/Keras` `Firebase Auth & Firestore` `MongoDB` `Node.js` `PWA`
+
+<br/>
+
+<!-- Retro Swar -->
+<div align="center">
+
+### 🎵 Retro Swar — Music Streaming PWA
+
+<a href="https://spotify-one-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-DC2626?style=for-the-badge"/>
+</a>
+<a href="https://github.com/harshkumaranand06/spotify">
+  <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+> Classic Hindi music streaming app celebrating the golden era of cinema — fully installable, offline-capable.
+
+| Feature | Tech | Impact |
+|---|---|---|
+| Offline Cache | Service Workers + IndexedDB | **80% bandwidth** reduction |
+| Auth | Clerk OTP | **99.5%** success rate |
+| Playback | PWA + 50MB cache | **95%** instant play rate |
+| Accessibility | ARIA labels | **96/100** Lighthouse score |
+
+**Stack:** `React 19` `Vite 7` `Clerk Auth` `IndexedDB` `Service Workers` `Express.js` `Framer Motion`
+
+<br/>
 
 ---
 
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-Production-1f2937?style=flat-square"/>
-</p>
+<!-- Skills Section -->
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 🗣️ Languages
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python&theme=dark" height="48"/>
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,framer&theme=dark" height="48"/>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="48"/>
+
+### 🗄️ Databases & Auth
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/IndexedDB-Offline%20Storage-1e1b4b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clerk-Auth%20%26%20OTP-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/Groq-LLaMA--3-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-Embeddings-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-Vector%20Search-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MobileNetV2-Computer%20Vision-16A34A?style=for-the-badge"/>
+
+### 🛠️ Tools & Infra
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudinary&theme=dark" height="48"/>
+
+</div>
+
+<br/>
 
 ---
 
-### Databases, Auth & Offline Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IndexedDB-Offline%20Storage-1f2937?style=flat-square"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=clerk" height="44"/>
-</p>
+<!-- Stats Section -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshkumaranand06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumaranand06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumaranand06&theme=tokyonight&hide_border=true&ring=818CF8&fire=F472B6&currStreakLabel=818CF8" width="500"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkumaranand06&theme=tokyo-night&hide_border=true&area=true&area_color=818CF8" width="95%"/>
+</div>
+
+<br/>
 
 ---
 
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Groq-LLaMA--3-1f2937?style=flat-square"/> &nbsp;
-  <img src="https://img.shields.io/badge/Gemini-Embeddings-1f2937?style=flat-square"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RAG-Vector%20Search-1f2937?style=flat-square"/> &nbsp;
-  <img src="https://img.shields.io/badge/Computer%20Vision-MobileNetV2-1f2937?style=flat-square"/>
-</p>
+<!-- Achievements -->
+## 🏆 Highlights
+
+<div align="center">
+
+| 🎯 | Achievement |
+|:---:|---|
+| 🧩 | **120+ DSA problems** solved on LeetCode in Java — arrays, trees, graphs, DP |
+| 📦 | **12 repositories** · **150+ commits** · **30+ merged PRs** to open-source |
+| 🚀 | **3 production apps** deployed on Vercel with **99%+ uptime** |
+| 🏅 | **Top 20%** across 3 competitive hackathons |
+| 👨‍🏫 | Led **2 MERN workshops** training **50+ students** at JSSATE |
+| 💡 | Built offline PWA used in **low-connectivity rural environments** |
+| ⚡ | Reduced quiz generation from **minutes → < 1 second** using Map-Reduce + Groq |
+
+</div>
+
+<br/>
 
 ---
 
-### Platform, Infra & Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="44"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudinary" height="44"/>
-</p>
+<!-- Currently Learning -->
+## 🌱 Currently Exploring
+
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System%20Design%20%26%20Scalability-0f172a?style=for-the-badge&logo=databricks&logoColor=818CF8)
+![Advanced RAG](https://img.shields.io/badge/Advanced%20RAG%20Architectures-0f172a?style=for-the-badge&logo=openai&logoColor=818CF8)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-0f172a?style=for-the-badge&logo=huggingface&logoColor=818CF8)
+![Reliability Eng](https://img.shields.io/badge/Performance%20%26%20Reliability%20Eng-0f172a?style=for-the-badge&logo=grafana&logoColor=818CF8)
+
+</div>
+
+<br/>
 
 ---
 
-### Engineering Concepts
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures-Strong-020617?style=flat-square"/> &nbsp;
-  <img src="https://img.shields.io/badge/Algorithms-Strong-020617?style=flat-square"/> &nbsp;
-  <img src="https://img.shields.io/badge/OOP-Strong-020617?style=flat-square"/> &nbsp;
-  <img src="https://img.shields.io/badge/PWA-Offline--First-020617?style=flat-square"/> &nbsp;
-  <img src="https://img.shields.io/badge/Service%20Workers-Advanced-020617?style=flat-square"/> &nbsp;
-  <img src="https://img.shields.io/badge/Computer%20Vision-Production%20Use-020617?style=flat-square"/>
-</p>
+<!-- Footer Wave -->
+<div align="center">
 
----
+**Open to internships · early-stage startups · high-impact engineering roles**
 
-## Impact Highlights
+[![Email](https://img.shields.io/badge/harshbabu06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshbabu06@gmail.com)
 
-- Built **3 production-grade applications** across AI/EdTech, agri-tech, and audio streaming
-- Designed **offline-first PWAs** running in low-connectivity rural environments — 98/100 Lighthouse score
-- Reduced document-to-quiz generation from minutes → **under 1 second** using Map-Reduce + Groq
-- Maintained **99%+ uptime** across all Vercel deployments
-- Solved **120+ DSA problems** on LeetCode in Java — arrays, trees, graphs, dynamic programming
-- **150+ commits** across 12 repositories; contributed 30+ merged PRs to open-source projects
-- Led **2 college workshops** training 50+ students in MERN stack development
-- Placed in **top 20%** across 3 competitive hackathons
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkumaranand06&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumaranand06&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumaranand06&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## Currently Learning
-- System Design & Scalability
-- Advanced RAG Architectures & LLM Fine-tuning
-- Performance & Reliability Engineering
-
----
-
-<p align="center">
-  <b>Open to internships, early-stage startups, and high-impact engineering roles</b><br/>
-  <a href="mailto:harshbabu06@gmail.com">harshbabu06@gmail.com</a>
-</p>
+</div>
